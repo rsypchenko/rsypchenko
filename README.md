@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=075CF35F&background=1177FF00&width=435&lines=Welcome+to+my+page!+I'm+Frontend+Developer.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F66AC&background=1177FF00&width=435&lines=Welcome+to+my+page!+I'm+Frontend+Developer.)](https://git.io/typing-svg)
 
 <!--
 **rsypchenko/rsypchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
