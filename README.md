@@ -1,8 +1,3 @@
-### Introduction
-
-- 🔭 I’m currently working at [BestBuy](https://www.bestbuy.ca/)
-- 🤝 I'm open to new opportunities and ideas
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/sypchenko) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@r.sipchenko) 
 
